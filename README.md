@@ -1,5 +1,3 @@
-# credit-card-segmentation
-
 # 💳 Credit Card Customer Segmentation
 
 Data cleaning and preparation of credit card and user datasets for 
